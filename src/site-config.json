@@ -1,0 +1,572 @@
+{
+  "business": {
+    "name": "Consider It Done Construction Co. LLC,",
+    "phone": "+14436230092",
+    "category": "remodeling contractor",
+    "city": "Baltimore",
+    "state": "MD"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-mountain-bold",
+      "categoryGroup": "roofing",
+      "name": "Mountain Bold",
+      "recipeFile": "roofing/mountain-bold.astro",
+      "colors": {
+        "primary": "#1A3A52",
+        "primaryDark": "#0F2436",
+        "primaryLight": "#C8DDE8",
+        "secondary": "#2D5F7C",
+        "accent": "#FFC600",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1A3A52",
+        "surface": "#F0F4F7",
+        "text": "#0F172A",
+        "textLight": "#64748B",
+        "textOnDark": "#FFFFFF",
+        "border": "#D1D5DB"
+      },
+      "typography": {
+        "headingFont": "Plus Jakarta Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "medium"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/mountain-bold"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Baltimore's Trusted Remodeling Experts",
+      "heroSubline": "Transforming homes across Baltimore with quality craftsmanship and unwavering dedication. Consider It Done Construction Co. LLC delivers exceptional results, on time and within budget.",
+      "aboutTitle": "Built on Baltimore, Driven by Quality",
+      "aboutText": [
+        "Consider It Done Construction Co. LLC was founded right here in Baltimore with a simple goal: to provide homeowners with reliable, high-quality remodeling services they can trust. We've seen firsthand the challenges our local climate and historic housing stock present, and we're equipped to handle them all.",
+        "Our approach is straightforward. We listen to your needs, develop a clear plan, and execute the project with precision and care. We value open communication, transparency, and a commitment to exceeding your expectations. No surprises, just exceptional workmanship.",
+        "We're proud to be a part of the Baltimore community. From Federal Hill to Fells Point, we're dedicated to helping our neighbors create homes they love. We source materials locally whenever possible and actively support local initiatives."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "Deep understanding of Baltimore's unique housing styles and climate challenges."
+        },
+        {
+          "title": "Meticulous Craftsmanship",
+          "description": "Unwavering commitment to quality and attention to detail in every project."
+        },
+        {
+          "title": "Transparent Communication",
+          "description": "Clear and honest communication throughout the entire remodeling process."
+        },
+        {
+          "title": "On-Time Completion",
+          "description": "Dedicated to delivering projects on schedule and within budget."
+        }
+      ],
+      "ctaHeadline": "Ready to Reimagine Your Home?",
+      "ctaSubline": "Contact Consider It Done Construction Co. LLC today for a free consultation and let's bring your vision to life."
+    },
+    "services": [
+      {
+        "slug": "kitchen-remodeling",
+        "name": "Kitchen Remodeling",
+        "shortDescription": "Transform your kitchen into the heart of your Baltimore home.",
+        "description": "Is your kitchen outdated, cramped, or simply not meeting your needs? Consider It Done Construction Co. LLC specializes in complete kitchen remodeling services throughout Baltimore. From minor updates to full-scale renovations, we handle every aspect of your kitchen project with precision and expertise.\n\nWe understand the unique challenges of remodeling kitchens in Baltimore's diverse housing stock, from the narrow layouts of Federal Hill rowhouses to the spacious kitchens of Bethesda homes. Our team has the experience to maximize space, improve functionality, and create a kitchen that reflects your personal style.\n\nWe handle everything from cabinet installation and countertop replacement to plumbing and electrical work. Whether you envision a modern, chef-inspired kitchen or a cozy, traditional space, we'll work closely with you to design and build the kitchen of your dreams.\n\nGiven Baltimore's humid climate, we also address moisture concerns and ensure proper ventilation to prevent mold and mildew growth in your new kitchen.",
+        "process": [
+          "Step 1: Consultation and Design – Discuss your vision, budget, and timeline.",
+          "Step 2: Material Selection – Choose from a wide range of high-quality materials.",
+          "Step 3: Demolition and Preparation – Careful removal of existing fixtures and preparation of the space.",
+          "Step 4: Installation and Finishing – Expert installation of cabinets, countertops, appliances, and more."
+        ],
+        "benefits": [
+          "Increased home value",
+          "Improved functionality and efficiency",
+          "Enhanced aesthetic appeal",
+          "Personalized design to match your style"
+        ],
+        "faq": [
+          {
+            "question": "How long does a kitchen remodel typically take?",
+            "answer": "The timeline varies depending on the scope of the project, but most kitchen remodels take between 4-8 weeks. We provide a detailed schedule upfront and keep you informed throughout the process."
+          },
+          {
+            "question": "Do you handle the plumbing and electrical work?",
+            "answer": "Yes, we have licensed and experienced plumbers and electricians on our team to ensure all work is done to code and meets the highest standards."
+          },
+          {
+            "question": "What type of kitchen styles do you specialize in?",
+            "answer": "We have experience with a wide range of kitchen styles, including contemporary, traditional, farmhouse, and transitional. We work closely with you to create a design that reflects your personal taste."
+          }
+        ]
+      },
+      {
+        "slug": "bathroom-remodeling",
+        "name": "Bathroom Remodeling",
+        "shortDescription": "Create a spa-like retreat in your Baltimore home with our bathroom remodeling services.",
+        "description": "Transform your outdated or dysfunctional bathroom into a relaxing and functional space with Consider It Done Construction Co. LLC. We offer comprehensive bathroom remodeling services throughout Baltimore, from simple cosmetic updates to complete gut renovations. We understand the unique challenges of Baltimore bathrooms, from the tight spaces of rowhouses to the moisture issues common in older homes.\n\nOur team will work with you to design a bathroom that meets your specific needs and style preferences. We handle all aspects of the project, including plumbing, electrical, tiling, and fixture installation. Whether you're looking to update your shower, install a new vanity, or create a luxurious soaking tub experience, we've got you covered.\n\nGiven Baltimore's high humidity, we pay special attention to ventilation and waterproofing to prevent mold and mildew growth. We use high-quality materials and proven techniques to ensure your new bathroom is both beautiful and durable.",
+        "process": [
+          "Step 1: Design Consultation – Discuss your vision, budget, and desired features.",
+          "Step 2: Material Selection – Choose from a wide range of tiles, fixtures, and vanities.",
+          "Step 3: Demolition and Plumbing – Removal of existing fixtures and necessary plumbing adjustments.",
+          "Step 4: Installation and Finishing – Expert installation of all new features and finishing touches."
+        ],
+        "benefits": [
+          "Increased home value",
+          "Improved functionality and comfort",
+          "Updated aesthetics",
+          "Mold and mildew prevention"
+        ],
+        "faq": [
+          {
+            "question": "How can I maximize space in a small Baltimore rowhouse bathroom?",
+            "answer": "We can suggest space-saving solutions like wall-mounted vanities, corner showers, and strategic storage options to make the most of your limited space."
+          },
+          {
+            "question": "What type of ventilation is recommended for Baltimore bathrooms?",
+            "answer": "We recommend installing a high-quality exhaust fan that vents to the outside to remove moisture and prevent mold growth. We can also advise on other ventilation strategies."
+          },
+          {
+            "question": "Do you handle permit applications for bathroom remodels?",
+            "answer": "Yes, we handle all necessary permit applications to ensure your bathroom remodel complies with local building codes."
+          }
+        ]
+      },
+      {
+        "slug": "basement-finishing",
+        "name": "Basement Finishing",
+        "shortDescription": "Unlock the potential of your Baltimore basement with our expert finishing services.",
+        "description": "Transform your unfinished basement into valuable living space with Consider It Done Construction Co. LLC. We provide complete basement finishing services throughout Baltimore, turning dark and damp basements into functional and inviting areas.\n\nWe understand the unique challenges of Baltimore basements, including moisture issues, low ceilings, and uneven floors. Our team has the experience to address these challenges and create a basement that meets your specific needs.\n\nWhether you envision a home theater, a playroom, a home office, or an extra bedroom, we'll work with you to design and build a basement that maximizes space and adds value to your home. We handle all aspects of the project, including framing, insulation, drywall, flooring, and electrical work.\n\nGiven Baltimore's climate, we pay special attention to waterproofing and insulation to prevent moisture problems and create a comfortable living environment in your basement.",
+        "process": [
+          "Step 1: Assessment and Planning – Evaluate the basement's condition and discuss your goals.",
+          "Step 2: Waterproofing and Insulation – Implement moisture control measures and proper insulation.",
+          "Step 3: Framing and Electrical – Build the framework and install electrical wiring.",
+          "Step 4: Finishing and Detailing – Install drywall, flooring, and other finishing touches."
+        ],
+        "benefits": [
+          "Increased living space",
+          "Enhanced home value",
+          "Improved energy efficiency",
+          "Customized design to fit your needs"
+        ],
+        "faq": [
+          {
+            "question": "How do you address moisture issues in Baltimore basements?",
+            "answer": "We use a variety of techniques to address moisture issues, including interior and exterior waterproofing, sump pump installation, and proper ventilation."
+          },
+          {
+            "question": "What type of flooring is best for basements?",
+            "answer": "We recommend moisture-resistant flooring options like engineered hardwood, tile, or epoxy flooring."
+          },
+          {
+            "question": "Do I need a permit to finish my basement in Baltimore?",
+            "answer": "Yes, a permit is typically required to finish a basement in Baltimore. We handle the permit application process for you."
+          }
+        ]
+      },
+      {
+        "slug": "deck-and-patio-construction",
+        "name": "Deck and Patio Construction",
+        "shortDescription": "Extend your living space outdoors with a custom deck or patio.",
+        "description": "Enhance your outdoor living experience with a custom deck or patio from Consider It Done Construction Co. LLC. We design and build decks and patios throughout Baltimore, creating beautiful and functional outdoor spaces for relaxation and entertainment.\n\nWe understand the importance of choosing the right materials for Baltimore's climate. Our team will help you select durable and weather-resistant materials that will withstand the elements and provide years of enjoyment. From traditional wood decks to low-maintenance composite decks and paver patios, we offer a wide range of options to suit your style and budget.\n\nWe handle all aspects of the project, including design, permitting, construction, and finishing. Whether you envision a small deck for grilling or a large patio for entertaining, we'll work with you to create an outdoor space that meets your needs and enhances your property value.",
+        "process": [
+          "Step 1: Design Consultation – Discuss your vision, budget, and site conditions.",
+          "Step 2: Material Selection – Choose from a variety of decking, railing, and patio materials.",
+          "Step 3: Permitting and Preparation – Obtain necessary permits and prepare the site.",
+          "Step 4: Construction and Finishing – Build the deck or patio and add finishing touches."
+        ],
+        "benefits": [
+          "Increased outdoor living space",
+          "Enhanced property value",
+          "Improved curb appeal",
+          "Durable and weather-resistant construction"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of a composite deck compared to a wood deck?",
+            "answer": "Composite decks are low-maintenance, durable, and resistant to rot, insects, and fading. They also come in a variety of colors and styles."
+          },
+          {
+            "question": "Do I need a permit to build a deck or patio in Baltimore?",
+            "answer": "Yes, a permit is typically required to build a deck or patio in Baltimore. We handle the permit application process for you."
+          },
+          {
+            "question": "What type of patio pavers are best for Baltimore's climate?",
+            "answer": "We recommend pavers that are durable, weather-resistant, and slip-resistant. Concrete pavers, brick pavers, and natural stone pavers are all good options."
+          }
+        ]
+      },
+      {
+        "slug": "roofing-services",
+        "name": "Roofing Services",
+        "shortDescription": "Protect your Baltimore home with our expert roofing repair and replacement services.",
+        "description": "Consider It Done Construction Co. LLC provides comprehensive roofing services to protect your Baltimore home from the elements. From minor repairs to complete roof replacements, we handle all your roofing needs with expertise and care.\n\nWe understand the importance of a sound roof in Baltimore's climate, which is subject to hot summers, cold winters, and occasional severe storms. Our team has the experience to assess your roof's condition, identify any problems, and recommend the best course of action.\n\nWe offer a wide range of roofing materials, including asphalt shingles, metal roofing, and flat roofing systems. We use only high-quality materials from reputable manufacturers and follow industry best practices to ensure your roof is durable, weather-resistant, and long-lasting.\n\nWhether you need a minor repair to fix a leak or a complete roof replacement, we'll work with you to find the best solution for your needs and budget. We also offer emergency roofing services to address urgent problems and prevent further damage to your home.",
+        "process": [
+          "Step 1: Roof Inspection – Thoroughly assess the roof's condition and identify any problems.",
+          "Step 2: Material Selection – Choose from a variety of roofing materials and colors.",
+          "Step 3: Roof Repair or Replacement – Expertly repair or replace the roof.",
+          "Step 4: Cleanup and Inspection – Remove debris and ensure the roof is properly installed."
+        ],
+        "benefits": [
+          "Protection from the elements",
+          "Increased home value",
+          "Improved energy efficiency",
+          "Long-lasting durability"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my roof inspected in Baltimore?",
+            "answer": "We recommend having your roof inspected at least once a year, especially after severe storms."
+          },
+          {
+            "question": "What are the signs that my roof needs to be replaced?",
+            "answer": "Signs of a failing roof include missing or damaged shingles, leaks, water stains on ceilings, and sagging roof decking."
+          },
+          {
+            "question": "Do you offer warranties on your roofing work?",
+            "answer": "Yes, we offer warranties on both materials and workmanship. The specific warranty terms vary depending on the type of roofing system installed."
+          }
+        ]
+      },
+      {
+        "slug": "siding-installation",
+        "name": "Siding Installation",
+        "shortDescription": "Protect and beautify your Baltimore home with new siding.",
+        "description": "Upgrade your home's exterior with new siding from Consider It Done Construction Co. LLC. We offer a wide range of siding options to protect and beautify your Baltimore home.\n\nWe understand the importance of choosing the right siding for Baltimore's climate, which is subject to hot summers, cold winters, and high humidity. Our team will help you select a siding material that is durable, weather-resistant, and aesthetically pleasing.\n\nWe offer a variety of siding options, including vinyl siding, fiber cement siding, and wood siding. We use only high-quality materials from reputable manufacturers and follow industry best practices to ensure your siding is properly installed and long-lasting.\n\nNew siding can not only improve your home's appearance but also increase its energy efficiency and protect it from the elements. Whether you're looking to replace old, damaged siding or simply update your home's look, we'll work with you to find the best solution for your needs and budget.",
+        "process": [
+          "Step 1: Consultation and Estimate – Discuss your siding preferences and provide a detailed estimate.",
+          "Step 2: Siding Selection – Choose from a variety of siding materials, colors, and styles.",
+          "Step 3: Removal of Old Siding – Carefully remove the existing siding.",
+          "Step 4: Installation of New Siding – Expertly install the new siding and trim."
+        ],
+        "benefits": [
+          "Improved curb appeal",
+          "Increased home value",
+          "Enhanced energy efficiency",
+          "Protection from the elements"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of vinyl siding?",
+            "answer": "Vinyl siding is low-maintenance, durable, and affordable. It also comes in a wide variety of colors and styles."
+          },
+          {
+            "question": "What are the benefits of fiber cement siding?",
+            "answer": "Fiber cement siding is durable, fire-resistant, and resistant to rot and insects. It also has a natural wood look."
+          },
+          {
+            "question": "How long does siding installation typically take?",
+            "answer": "The timeline varies depending on the size of the home and the type of siding being installed, but most siding installations take between 1-2 weeks."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Columbia",
+        "slug": "columbia-md",
+        "state": "MD",
+        "content": "Consider It Done Construction Co. LLC is proud to offer remodeling services to the residents of Columbia, Maryland. Known for its planned community design originating in the 1960s and 80s, Columbia features a unique blend of residential neighborhoods, commercial centers, and green spaces. We understand the specific needs of homeowners in Columbia, from updating kitchens and bathrooms in older properties to enhancing outdoor living spaces to enjoy Maryland's warm summers.",
+        "localContext": "We are experienced in working with the architectural styles prevalent in Columbia, ensuring that any remodeling project complements the existing design while improving functionality and value. Columbia experiences hot, humid summers, so energy-efficient upgrades are especially important.",
+        "nearbyAreas": [
+          "Ellicott City",
+          "Clarksville",
+          "Jessup"
+        ]
+      },
+      {
+        "city": "Bethesda",
+        "slug": "bethesda-md",
+        "state": "MD",
+        "content": "Consider It Done Construction Co. LLC provides comprehensive remodeling services in Bethesda, Maryland. Characterized by upscale homes primarily built between the 1930s and 1960s, Bethesda boasts a sophisticated aesthetic and a strong sense of community. We specialize in preserving the character of these classic homes while incorporating modern amenities and design elements.",
+        "localContext": "Our team is skilled in handling the unique challenges and opportunities presented by Bethesda's older housing stock, from updating electrical systems to renovating kitchens and bathrooms with high-end finishes. Bethesda experiences hot, humid summers, so energy-efficient upgrades are especially important.",
+        "nearbyAreas": [
+          "Chevy Chase",
+          "Kensington",
+          "Potomac"
+        ]
+      },
+      {
+        "city": "Rockville",
+        "slug": "rockville-md",
+        "state": "MD",
+        "content": "Consider It Done Construction Co. LLC is dedicated to serving the diverse remodeling needs of Rockville, Maryland. Rockville's housing landscape is characterized by homes built primarily between the 1950s and 1970s, reflecting a variety of architectural styles and family sizes. We offer customized remodeling solutions to enhance the functionality and beauty of Rockville homes.",
+        "localContext": "We understand the importance of adapting to the evolving needs of Rockville homeowners, from creating open-concept living spaces to adding energy-efficient features. Rockville experiences hot, humid summers, so energy-efficient upgrades are especially important.",
+        "nearbyAreas": [
+          "Gaithersburg",
+          "Germantown",
+          "North Bethesda"
+        ]
+      },
+      {
+        "city": "Annapolis",
+        "slug": "annapolis-md",
+        "state": "MD",
+        "content": "Consider It Done Construction Co. LLC is proud to offer expert remodeling services in Annapolis, Maryland. Known for its historic downtown featuring Colonial and Federal-style homes, Annapolis presents unique opportunities and challenges for renovation projects. We specialize in preserving the historical integrity of Annapolis homes while incorporating modern amenities and design.",
+        "localContext": "Our team is experienced in navigating the regulations and guidelines associated with historic preservation in Annapolis, ensuring that all remodeling projects are compliant and sensitive to the city's unique character. Annapolis experiences hot, humid summers, so energy-efficient upgrades are especially important.",
+        "nearbyAreas": [
+          "Severna Park",
+          "Arnold",
+          "Edgewater"
+        ]
+      },
+      {
+        "city": "Ellicott City",
+        "slug": "ellicott-city-md",
+        "state": "MD",
+        "content": "Consider It Done Construction Co. LLC extends its remodeling expertise to Ellicott City, Maryland. With its historic charm and diverse range of homes, Ellicott City offers a unique blend of remodeling opportunities. We're equipped to handle projects of all sizes, from kitchen and bathroom renovations to whole-house transformations.",
+        "localContext": "We understand the specific needs of Ellicott City homeowners, whether it's preserving the historic character of older homes or updating more modern residences. Ellicott City experiences hot, humid summers, so energy-efficient upgrades are especially important.",
+        "nearbyAreas": [
+          "Columbia",
+          "Catonsville",
+          "Clarksville"
+        ]
+      },
+      {
+        "city": "Towson",
+        "slug": "towson-md",
+        "state": "MD",
+        "content": "Consider It Done Construction Co. LLC provides top-notch remodeling services in Towson, Maryland. Home to a vibrant community and a mix of housing styles, Towson offers a variety of remodeling possibilities. We are dedicated to delivering exceptional results that meet the individual needs of each homeowner.",
+        "localContext": "Our team is skilled in transforming Towson homes, from updating kitchens and bathrooms to creating functional and stylish living spaces. Towson experiences hot, humid summers, so energy-efficient upgrades are especially important.",
+        "nearbyAreas": [
+          "Parkville",
+          "Lutherville-Timonium",
+          "Cockeysville"
+        ]
+      },
+      {
+        "city": "Owings Mills",
+        "slug": "owings-mills-md",
+        "state": "MD",
+        "content": "Consider It Done Construction Co. LLC is pleased to offer remodeling services to the residents of Owings Mills, Maryland. Owings Mills features a diverse range of housing options, from townhomes to single-family homes, providing ample opportunity for remodeling projects. We are committed to providing high-quality workmanship and exceptional customer service.",
+        "localContext": "We understand the unique needs of Owings Mills homeowners and strive to create customized remodeling solutions that enhance their homes' value and comfort. Owings Mills experiences hot, humid summers, so energy-efficient upgrades are especially important.",
+        "nearbyAreas": [
+          "Reisterstown",
+          "Pikesville",
+          "Randallstown"
+        ]
+      },
+      {
+        "city": "Pikesville",
+        "slug": "pikesville-md",
+        "state": "MD",
+        "content": "Consider It Done Construction Co. LLC serves the Pikesville, Maryland community with comprehensive remodeling services. Pikesville is known for its established neighborhoods and diverse architectural styles. We specialize in updating and improving these homes for modern living while respecting their original charm.",
+        "localContext": "We are experienced in working with the specific challenges and opportunities presented by Pikesville's housing stock, from kitchen and bathroom renovations to whole-house remodeling projects. Pikesville experiences hot, humid summers, so energy-efficient upgrades are especially important.",
+        "nearbyAreas": [
+          "Owings Mills",
+          "Reisterstown",
+          "Towson"
+        ]
+      },
+      {
+        "city": "Catonsville",
+        "slug": "catonsville-md",
+        "state": "MD",
+        "content": "Consider It Done Construction Co. LLC is committed to providing exceptional remodeling services in Catonsville, Maryland. Known for its tight-knit community and variety of home styles, Catonsville presents a wide range of remodeling possibilities. We are dedicated to helping homeowners transform their houses into their dream homes.",
+        "localContext": "We understand the importance of respecting the character of Catonsville's homes while providing modern updates and improvements. Catonsville experiences hot, humid summers, so energy-efficient upgrades are especially important.",
+        "nearbyAreas": [
+          "Ellicott City",
+          "Arbutus",
+          "Woodlawn"
+        ]
+      },
+      {
+        "city": "Severna Park",
+        "slug": "severna-park-md",
+        "state": "MD",
+        "content": "Consider It Done Construction Co. LLC is proud to offer remodeling services in Severna Park, Maryland. With its beautiful waterfront properties and established neighborhoods, Severna Park offers a unique blend of remodeling opportunities. We specialize in enhancing the value and beauty of homes in this desirable community.",
+        "localContext": "Our team is experienced in working with the specific needs of Severna Park homeowners, from waterfront renovations to updating interior spaces for modern living. Severna Park experiences hot, humid summers, so energy-efficient upgrades are especially important.",
+        "nearbyAreas": [
+          "Annapolis",
+          "Arnold",
+          "Pasadena"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Kitchen Remodel",
+        "text": "Consider It Done Construction Co. LLC completely transformed my outdated kitchen in my Federal Hill rowhouse! They were professional, communicative, and the quality of their work is outstanding. The new layout maximizes space and the custom cabinets are beautiful. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David B.",
+        "rating": 4,
+        "service": "Basement Finishing",
+        "text": "We had Consider It Done Construction Co. LLC finish our basement in our Columbia home. They did a great job creating a functional and comfortable living space. There were a couple of minor delays, but they communicated effectively and addressed our concerns promptly. Overall, very satisfied.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Jennifer K.",
+        "rating": 5,
+        "service": "Bathroom Remodel",
+        "text": "The team at Consider It Done Construction Co. LLC did an amazing job remodeling our master bathroom in Bethesda. They helped us choose beautiful and durable materials and the workmanship is flawless. The new walk-in shower is a dream! Thanks for making our vision a reality.",
+        "date": "2024-09-01"
+      },
+      {
+        "name": "Michael S.",
+        "rating": 5,
+        "service": "Deck Construction",
+        "text": "Consider it Done Construction Co. built a fantastic deck for us in Annapolis. The quality of the materials and workmanship is top-notch. Great communication throughout the project. We're already enjoying our new outdoor space!",
+        "date": "2025-05-10"
+      },
+      {
+        "name": "Lisa P.",
+        "rating": 4,
+        "service": "Roof Repair",
+        "text": "We had a leak in our roof after a bad storm. Consider It Done Construction Co. LLC came out quickly and repaired the damage efficiently and professionally. They explained the problem clearly and provided a fair price. We're grateful for their prompt service.",
+        "date": "2024-12-28"
+      },
+      {
+        "name": "Thomas A.",
+        "rating": 5,
+        "service": "Siding Installation",
+        "text": "Consider It Done Construction Co. LLC installed new siding on our house in Rockville, and it looks fantastic! The crew was professional and efficient, and the quality of the work is excellent. They completely transformed the look of our home, and we couldn't be happier.",
+        "date": "2025-02-18"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Baltimore Remodeling Contractor | Consider It Done",
+        "description": "Trusted remodeling contractor in Baltimore, MD. Kitchens, bathrooms, basements, decks, roofing & more. Call Consider It Done Construction Co. LLC!"
+      },
+      "about": {
+        "title": "About Us | Consider It Done Construction Co. LLC",
+        "description": "Learn about Consider It Done Construction Co. LLC, a Baltimore-based remodeling contractor. Our commitment to quality and community."
+      },
+      "services": {
+        "title": "Remodeling Services | Consider It Done Construction",
+        "description": "Complete remodeling services in Baltimore: kitchen remodeling, bathroom renovations, basement finishing, decks, patios, roofing, siding."
+      },
+      "contact": {
+        "title": "Contact Us | Consider It Done Construction Co. LLC",
+        "description": "Contact Consider It Done Construction Co. LLC for a free remodeling consultation in Baltimore, MD. Call us at +14436230092."
+      },
+      "reviews": {
+        "title": "Client Reviews | Consider It Done Construction Co. LLC",
+        "description": "Read reviews from satisfied clients of Consider It Done Construction Co. LLC. Quality remodeling services in Baltimore and surrounding areas."
+      },
+      "service-areas": {
+        "title": "Service Areas | Consider It Done Construction",
+        "description": "Consider It Done Construction Co. LLC serves Baltimore, Columbia, Bethesda, Rockville, Annapolis, and surrounding Maryland areas."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "kitchen-remodeling": "/images/service-kitchen-remodeling.webp",
+      "bathroom-remodeling": "/images/service-bathroom-remodeling.webp",
+      "basement-finishing": "/images/service-basement-finishing.webp",
+      "deck-and-patio-construction": "/images/service-deck-and-patio-construction.webp",
+      "roofing-services": "/images/service-roofing-services.webp",
+      "siding-installation": "/images/service-siding-installation.webp"
+    },
+    "servicesResponsive": {
+      "kitchen-remodeling": {
+        "src": "/images/service-kitchen-remodeling.webp",
+        "srcset": "/images/service-kitchen-remodeling-400w.webp 400w, /images/service-kitchen-remodeling-800w.webp 800w, /images/service-kitchen-remodeling-1200w.webp 1200w, /images/service-kitchen-remodeling.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "bathroom-remodeling": {
+        "src": "/images/service-bathroom-remodeling.webp",
+        "srcset": "/images/service-bathroom-remodeling-400w.webp 400w, /images/service-bathroom-remodeling-800w.webp 800w, /images/service-bathroom-remodeling-1200w.webp 1200w, /images/service-bathroom-remodeling.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "basement-finishing": {
+        "src": "/images/service-basement-finishing.webp",
+        "srcset": "/images/service-basement-finishing-400w.webp 400w, /images/service-basement-finishing-800w.webp 800w, /images/service-basement-finishing-1200w.webp 1200w, /images/service-basement-finishing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "deck-and-patio-construction": {
+        "src": "/images/service-deck-and-patio-construction.webp",
+        "srcset": "/images/service-deck-and-patio-construction-400w.webp 400w, /images/service-deck-and-patio-construction-800w.webp 800w, /images/service-deck-and-patio-construction-1200w.webp 1200w, /images/service-deck-and-patio-construction.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "roofing-services": {
+        "src": "/images/service-roofing-services.webp",
+        "srcset": "/images/service-roofing-services-400w.webp 400w, /images/service-roofing-services-800w.webp 800w, /images/service-roofing-services-1200w.webp 1200w, /images/service-roofing-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "siding-installation": {
+        "src": "/images/service-siding-installation.webp",
+        "srcset": "/images/service-siding-installation-400w.webp 400w, /images/service-siding-installation-800w.webp 800w, /images/service-siding-installation-1200w.webp 1200w, /images/service-siding-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}

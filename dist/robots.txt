@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-consider-it-done-construction-co-llc.dream-surge.com/sitemap-index.xml
